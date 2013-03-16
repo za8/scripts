@@ -1,0 +1,12 @@
+#!/bin/bash
+
+sudo yum install -y unetbootin
+sudo yum install -y gparted
+sudo yum install -y firefox
+sudo yum install -y thunderbird
+sudo yum install -y libreoffice
+sudo yum install -y libreoffice-langpack-el.x86_64
+sudo yum install -y ZipArchive.x86_64
+sudo yum install -y filezilla.x86_64
+sudo yum install -y gimp
+sudo yum install -y unrar
